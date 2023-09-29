@@ -1,6 +1,6 @@
 # `Interactive chat based on DialoGPT model using Intel® Extension for PyTorch* Quantization` Sample
 
-The `Interactive chat based on DialoGPT model using Intel® Extension for PyTorch* Quantization` sample demonstrates how to create interactive chat based on pre-trained DialoGPT model and add the Intel® Extension for PyTorch* quantization to it.
+The `[Interactive chat based on DialoGPT model using Intel® Extension for PyTorch* Quantization](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Features-and-Functionality/IntelPytorch_Interactive_Chat_Quantization)` sample demonstrates how to create interactive chat based on pre-trained DialoGPT model and add the Intel® Extension for PyTorch* quantization to it.
 
 | Area                  | Description
 |:---                   |:---
